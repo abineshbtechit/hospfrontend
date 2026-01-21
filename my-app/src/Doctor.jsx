@@ -23,7 +23,7 @@ export default function Doctor() {
     <div className="clinic-container">
       <header className="clinic-header">
         <h1 className="clinic-title">🏥 HealthCare Clinic</h1>
-        <p className="clinic-subtitle">Doctor Dashboardd</p>
+        <p className="clinic-subtitle">Doctor Dashboard</p>
       </header>
 
       <div className="dashboard-content">
