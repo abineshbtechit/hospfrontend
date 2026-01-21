@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/doctor", "destination": "/" },
+    { "source": "/patient1", "destination": "/" }
+  ]
+}
